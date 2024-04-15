@@ -1,0 +1,6 @@
+pet_id,category_id,category_name,pet_name,tags,status
+112092002,2,cat,Sasha,1-vacinado;2-vermifugado,available
+112092003,3,fish,Dory,3-raro,available
+112092004,2,cat,Fera,1-vacinado;2-vermifugado,available
+112092005,1,dog,Caramelo,1-vacinado;4-castrado,available
+112092006,4,bird,Garibaldo,3-raro,available
